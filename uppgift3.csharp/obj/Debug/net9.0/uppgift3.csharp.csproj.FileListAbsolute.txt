@@ -1,0 +1,15 @@
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\bin\Debug\net9.0\uppgift3.csharp.exe
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\bin\Debug\net9.0\uppgift3.csharp.deps.json
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\bin\Debug\net9.0\uppgift3.csharp.runtimeconfig.json
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\bin\Debug\net9.0\uppgift3.csharp.dll
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\bin\Debug\net9.0\uppgift3.csharp.pdb
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\obj\Debug\net9.0\uppgift3.csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\obj\Debug\net9.0\uppgift3.csharp.AssemblyInfoInputs.cache
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\obj\Debug\net9.0\uppgift3.csharp.AssemblyInfo.cs
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\obj\Debug\net9.0\uppgift3.csharp.csproj.CoreCompileInputs.cache
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\obj\Debug\net9.0\uppgift3.csharp.sourcelink.json
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\obj\Debug\net9.0\uppgift3.csharp.dll
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\obj\Debug\net9.0\refint\uppgift3.csharp.dll
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\obj\Debug\net9.0\uppgift3.csharp.pdb
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\obj\Debug\net9.0\uppgift3.csharp.genruntimeconfig.cache
+C:\GitHub\uppgift3.csharp\uppgift3.csharp\obj\Debug\net9.0\ref\uppgift3.csharp.dll

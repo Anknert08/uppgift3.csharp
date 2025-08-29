@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programmering\\uppgift3.csharp\\uppgift3.csharp.csproj",
+      "projectUniqueName": "C:\\GitHub\\uppgift3.csharp\\uppgift3.csharp\\uppgift3.csharp.csproj",
       "projectName": "uppgift3.csharp",
-      "projectPath": "C:\\Programmering\\uppgift3.csharp\\uppgift3.csharp.csproj",
+      "projectPath": "C:\\GitHub\\uppgift3.csharp\\uppgift3.csharp\\uppgift3.csharp.csproj",
       "packagesPath": "C:\\Users\\ebak08001\\.nuget\\packages\\",
-      "outputPath": "C:\\Programmering\\uppgift3.csharp\\obj\\",
+      "outputPath": "C:\\GitHub\\uppgift3.csharp\\uppgift3.csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ebak08001\\AppData\\Roaming\\NuGet\\NuGet.Config"
