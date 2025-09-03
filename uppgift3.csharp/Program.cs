@@ -13,5 +13,7 @@ Console.WriteLine("skriv ett tal mellan 1 och 100.");
 int tal2 = int.Parse(Console.ReadLine());
 do
 {
-    
+    tal2 = tal2 + 1;
+    Console.WriteLine(tal2);
 }
+while (tal2 != 101);
